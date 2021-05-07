@@ -1,5 +1,5 @@
 # Solutions
 
-- [] John
-- [] Peter
-- [] Doe
+- [ ] Item
+- [ ] Peter
+- [ ] Doe
